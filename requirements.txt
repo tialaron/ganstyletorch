@@ -1,3 +1,4 @@
+pip==22.2.2
 streamlit==1.12.2
 torch==1.12.1
 torchvision==0.13.1
